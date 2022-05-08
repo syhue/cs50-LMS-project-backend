@@ -1,0 +1,8 @@
+{
+    "flask": {
+        "image": ":cs50-project-service.cs50-project-container.2",
+        "ports": {
+            "8100": "HTTP"
+        }
+    }
+}
